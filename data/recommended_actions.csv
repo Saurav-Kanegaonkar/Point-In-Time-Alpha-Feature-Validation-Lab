@@ -1,0 +1,221 @@
+action_id,entity_id,action_type,effort_hours,expected_lift_pct,status
+ACT0001,PRE003,automate,11,19.8,In Review
+ACT0002,PRE008,prioritize,2,11.0,In Review
+ACT0003,PRE004,validate,23,8.6,Proposed
+ACT0004,PRE035,validate,37,22.1,In Review
+ACT0005,PRE030,monitor,7,6.4,Proposed
+ACT0006,PRE034,monitor,14,17.9,Complete
+ACT0007,PRE024,automate,35,3.8,Complete
+ACT0008,PRE035,escalate,27,3.2,In Review
+ACT0009,PRE013,automate,40,18.1,Proposed
+ACT0010,PRE017,escalate,3,21.2,Proposed
+ACT0011,PRE036,prioritize,3,15.0,Complete
+ACT0012,PRE033,monitor,22,15.6,Ready
+ACT0013,PRE027,document,33,15.6,Complete
+ACT0014,PRE022,monitor,6,4.5,Complete
+ACT0015,PRE010,escalate,36,7.4,In Review
+ACT0016,PRE020,validate,42,22.5,Proposed
+ACT0017,PRE029,escalate,36,17.2,Proposed
+ACT0018,PRE028,automate,22,10.7,Proposed
+ACT0019,PRE012,monitor,38,5.5,Ready
+ACT0020,PRE028,validate,26,3.8,Ready
+ACT0021,PRE005,document,39,21.4,In Review
+ACT0022,PRE025,validate,3,3.0,Ready
+ACT0023,PRE031,monitor,20,22.0,Ready
+ACT0024,PRE006,monitor,28,14.4,In Review
+ACT0025,PRE036,document,36,6.8,Ready
+ACT0026,PRE027,prioritize,8,9.7,Complete
+ACT0027,PRE011,automate,7,10.1,Proposed
+ACT0028,PRE014,escalate,41,19.2,Ready
+ACT0029,PRE022,escalate,20,4.3,Ready
+ACT0030,PRE025,document,41,5.3,Ready
+ACT0031,PRE017,validate,36,4.4,Ready
+ACT0032,PRE016,automate,13,12.6,In Review
+ACT0033,PRE012,automate,33,22.2,Complete
+ACT0034,PRE007,monitor,35,16.7,Complete
+ACT0035,PRE021,document,39,3.1,In Review
+ACT0036,PRE001,document,21,13.3,Ready
+ACT0037,PRE010,escalate,17,10.6,In Review
+ACT0038,PRE021,escalate,26,3.9,Ready
+ACT0039,PRE025,automate,33,8.7,Complete
+ACT0040,PRE017,automate,12,15.6,Proposed
+ACT0041,PRE029,prioritize,3,5.9,Complete
+ACT0042,PRE008,prioritize,12,16.0,Proposed
+ACT0043,PRE016,monitor,25,11.6,In Review
+ACT0044,PRE028,monitor,30,2.6,Proposed
+ACT0045,PRE016,validate,17,15.1,Proposed
+ACT0046,PRE006,prioritize,14,7.1,Complete
+ACT0047,PRE035,document,21,14.8,Ready
+ACT0048,PRE020,document,4,4.7,Ready
+ACT0049,PRE033,escalate,2,12.8,In Review
+ACT0050,PRE012,monitor,2,22.3,In Review
+ACT0051,PRE025,automate,36,5.0,Complete
+ACT0052,PRE025,escalate,20,12.5,Ready
+ACT0053,PRE015,escalate,17,16.2,Complete
+ACT0054,PRE022,validate,13,15.6,Complete
+ACT0055,PRE020,prioritize,5,22.8,In Review
+ACT0056,PRE032,validate,31,23.0,Proposed
+ACT0057,PRE004,validate,4,8.1,Proposed
+ACT0058,PRE028,validate,31,23.2,Complete
+ACT0059,PRE011,validate,32,6.9,Complete
+ACT0060,PRE007,automate,30,17.8,Complete
+ACT0061,PRE030,validate,39,11.2,Ready
+ACT0062,PRE034,document,13,7.3,Complete
+ACT0063,PRE018,prioritize,42,16.2,Ready
+ACT0064,PRE020,document,11,9.4,Ready
+ACT0065,PRE010,monitor,22,9.2,Complete
+ACT0066,PRE032,escalate,31,16.8,Proposed
+ACT0067,PRE001,document,11,9.1,Ready
+ACT0068,PRE013,validate,3,9.7,Proposed
+ACT0069,PRE002,monitor,3,6.3,In Review
+ACT0070,PRE023,monitor,3,15.9,Complete
+ACT0071,PRE010,document,35,14.8,Complete
+ACT0072,PRE011,prioritize,14,22.8,In Review
+ACT0073,PRE026,validate,20,18.8,Ready
+ACT0074,PRE009,monitor,29,11.2,Proposed
+ACT0075,PRE021,monitor,42,19.8,In Review
+ACT0076,PRE019,escalate,39,15.8,Proposed
+ACT0077,PRE006,prioritize,24,16.7,Proposed
+ACT0078,PRE009,escalate,9,19.4,Proposed
+ACT0079,PRE007,automate,28,18.8,Complete
+ACT0080,PRE028,validate,33,2.3,In Review
+ACT0081,PRE018,document,15,14.9,In Review
+ACT0082,PRE015,escalate,15,9.5,Proposed
+ACT0083,PRE034,validate,12,3.4,In Review
+ACT0084,PRE020,prioritize,6,5.9,Proposed
+ACT0085,PRE001,automate,17,13.3,Complete
+ACT0086,PRE005,prioritize,28,10.5,Complete
+ACT0087,PRE027,prioritize,20,20.6,Ready
+ACT0088,PRE005,monitor,14,5.3,Complete
+ACT0089,PRE033,prioritize,17,19.1,Ready
+ACT0090,PRE004,monitor,11,24.0,Complete
+ACT0091,PRE007,prioritize,28,18.4,Proposed
+ACT0092,PRE025,prioritize,3,12.7,In Review
+ACT0093,PRE029,automate,19,13.8,Ready
+ACT0094,PRE008,monitor,34,8.8,Complete
+ACT0095,PRE031,validate,40,17.3,Proposed
+ACT0096,PRE022,escalate,15,2.6,Proposed
+ACT0097,PRE013,monitor,30,23.3,Ready
+ACT0098,PRE001,validate,25,8.3,Ready
+ACT0099,PRE014,automate,22,6.3,Proposed
+ACT0100,PRE035,validate,26,7.6,Complete
+ACT0101,PRE024,automate,34,9.5,In Review
+ACT0102,PRE033,validate,40,13.0,Complete
+ACT0103,PRE019,automate,28,3.5,Complete
+ACT0104,PRE012,automate,27,21.3,Complete
+ACT0105,PRE021,automate,14,16.6,Ready
+ACT0106,PRE010,escalate,42,17.2,Complete
+ACT0107,PRE001,prioritize,7,20.6,In Review
+ACT0108,PRE003,document,14,13.8,Ready
+ACT0109,PRE036,monitor,40,15.8,Complete
+ACT0110,PRE032,validate,27,4.3,Ready
+ACT0111,PRE028,automate,20,8.5,Proposed
+ACT0112,PRE028,validate,14,19.1,In Review
+ACT0113,PRE006,escalate,7,2.8,Ready
+ACT0114,PRE008,validate,26,21.2,Proposed
+ACT0115,PRE017,monitor,7,18.0,Complete
+ACT0116,PRE032,automate,19,17.0,Proposed
+ACT0117,PRE026,monitor,31,23.4,In Review
+ACT0118,PRE004,escalate,11,23.5,Complete
+ACT0119,PRE007,monitor,13,3.9,Complete
+ACT0120,PRE033,validate,32,18.9,Ready
+ACT0121,PRE009,escalate,19,8.3,Complete
+ACT0122,PRE002,monitor,42,13.5,Ready
+ACT0123,PRE010,document,43,2.4,Complete
+ACT0124,PRE023,validate,11,4.5,Complete
+ACT0125,PRE002,validate,9,7.7,Complete
+ACT0126,PRE030,prioritize,17,11.1,Proposed
+ACT0127,PRE006,monitor,8,9.5,Ready
+ACT0128,PRE024,monitor,21,18.9,Proposed
+ACT0129,PRE031,monitor,16,13.8,Complete
+ACT0130,PRE027,monitor,15,14.3,Complete
+ACT0131,PRE036,document,4,16.6,Proposed
+ACT0132,PRE014,monitor,11,22.0,Complete
+ACT0133,PRE020,escalate,9,14.8,Proposed
+ACT0134,PRE029,prioritize,29,8.5,In Review
+ACT0135,PRE006,escalate,25,3.4,In Review
+ACT0136,PRE007,prioritize,19,9.2,Proposed
+ACT0137,PRE005,prioritize,11,9.3,Ready
+ACT0138,PRE030,automate,17,15.9,Proposed
+ACT0139,PRE007,prioritize,39,3.4,Proposed
+ACT0140,PRE014,prioritize,25,6.2,In Review
+ACT0141,PRE014,monitor,33,19.3,In Review
+ACT0142,PRE007,automate,8,12.2,Proposed
+ACT0143,PRE025,prioritize,12,9.2,In Review
+ACT0144,PRE020,prioritize,37,5.6,Proposed
+ACT0145,PRE007,document,27,17.0,Proposed
+ACT0146,PRE013,automate,39,22.4,Ready
+ACT0147,PRE036,escalate,36,19.8,Ready
+ACT0148,PRE026,document,14,9.2,Complete
+ACT0149,PRE005,prioritize,17,13.6,Complete
+ACT0150,PRE036,automate,18,12.2,Proposed
+ACT0151,PRE003,automate,4,8.4,In Review
+ACT0152,PRE001,document,28,13.4,Proposed
+ACT0153,PRE007,monitor,8,16.0,Proposed
+ACT0154,PRE033,escalate,26,9.0,Proposed
+ACT0155,PRE022,escalate,36,12.9,Proposed
+ACT0156,PRE024,escalate,2,23.0,Ready
+ACT0157,PRE020,validate,44,22.0,Complete
+ACT0158,PRE009,prioritize,36,14.1,Complete
+ACT0159,PRE005,validate,17,8.4,In Review
+ACT0160,PRE036,validate,23,9.6,In Review
+ACT0161,PRE024,escalate,16,12.9,Ready
+ACT0162,PRE023,prioritize,36,18.9,Proposed
+ACT0163,PRE016,prioritize,35,15.0,Ready
+ACT0164,PRE022,document,12,19.8,In Review
+ACT0165,PRE004,prioritize,3,16.8,Ready
+ACT0166,PRE012,document,44,3.6,Proposed
+ACT0167,PRE018,escalate,30,2.1,In Review
+ACT0168,PRE011,validate,15,8.5,Ready
+ACT0169,PRE009,monitor,4,12.7,Proposed
+ACT0170,PRE014,document,28,4.5,Proposed
+ACT0171,PRE014,prioritize,4,10.0,Proposed
+ACT0172,PRE016,prioritize,5,10.0,In Review
+ACT0173,PRE012,prioritize,38,23.5,Proposed
+ACT0174,PRE015,automate,11,4.0,In Review
+ACT0175,PRE033,validate,26,16.0,In Review
+ACT0176,PRE007,prioritize,19,12.9,In Review
+ACT0177,PRE023,prioritize,35,4.4,Proposed
+ACT0178,PRE030,automate,20,4.7,In Review
+ACT0179,PRE021,prioritize,9,21.2,Ready
+ACT0180,PRE020,automate,38,8.2,In Review
+ACT0181,PRE032,monitor,16,17.3,Proposed
+ACT0182,PRE033,validate,34,10.3,Complete
+ACT0183,PRE012,automate,40,6.6,Proposed
+ACT0184,PRE001,document,6,6.0,Complete
+ACT0185,PRE035,escalate,38,22.6,In Review
+ACT0186,PRE030,automate,17,20.8,Complete
+ACT0187,PRE005,prioritize,10,2.9,Proposed
+ACT0188,PRE020,prioritize,38,17.4,Proposed
+ACT0189,PRE027,monitor,11,9.0,Ready
+ACT0190,PRE036,validate,28,17.1,Ready
+ACT0191,PRE022,monitor,21,22.0,Proposed
+ACT0192,PRE007,validate,9,4.8,Ready
+ACT0193,PRE014,monitor,19,3.6,Complete
+ACT0194,PRE022,monitor,4,10.1,In Review
+ACT0195,PRE025,document,3,18.5,Complete
+ACT0196,PRE007,prioritize,3,8.3,In Review
+ACT0197,PRE025,prioritize,8,10.7,In Review
+ACT0198,PRE006,document,42,9.6,Proposed
+ACT0199,PRE016,prioritize,32,12.4,In Review
+ACT0200,PRE031,validate,15,20.6,Complete
+ACT0201,PRE001,prioritize,4,4.4,In Review
+ACT0202,PRE009,document,42,17.9,Proposed
+ACT0203,PRE024,monitor,15,3.1,Ready
+ACT0204,PRE007,prioritize,38,5.3,Complete
+ACT0205,PRE007,validate,28,13.9,Ready
+ACT0206,PRE035,validate,41,5.9,In Review
+ACT0207,PRE021,validate,9,16.3,Ready
+ACT0208,PRE007,document,40,16.9,Ready
+ACT0209,PRE007,automate,25,16.9,Ready
+ACT0210,PRE036,validate,19,8.0,In Review
+ACT0211,PRE019,document,21,10.4,Complete
+ACT0212,PRE017,monitor,17,13.8,Complete
+ACT0213,PRE021,automate,34,2.3,Ready
+ACT0214,PRE023,document,12,17.7,In Review
+ACT0215,PRE010,automate,32,18.4,Ready
+ACT0216,PRE008,escalate,27,15.8,In Review
+ACT0217,PRE002,document,11,13.9,In Review
+ACT0218,PRE030,monitor,4,9.1,Proposed
+ACT0219,PRE023,validate,3,21.6,In Review
+ACT0220,PRE001,automate,37,9.8,Complete

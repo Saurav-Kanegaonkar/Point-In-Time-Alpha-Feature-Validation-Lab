@@ -1,0 +1,26 @@
+entity_id,entity_name,segment,priority_score,avg_risk_score,avg_quality_score,estimated_impact
+PRE030,Predictive feature 30,Strategic,106.11,47.3,82.2,995473
+PRE019,Predictive feature 19,Growth,90.13,46.6,80.4,769518
+PRE022,Predictive feature 22,Strategic,89.08,48.3,79.0,733443
+PRE036,Predictive feature 36,Core,88.75,52.8,81.7,701899
+PRE028,Predictive feature 28,Growth,88.46,49.1,81.0,727370
+PRE021,Predictive feature 21,Watch,88.13,55.5,81.8,670208
+PRE007,Predictive feature 7,Growth,87.87,53.0,80.4,682492
+PRE001,Predictive feature 1,Watch,83.77,52.4,80.6,631303
+PRE020,Predictive feature 20,Strategic,82.83,52.8,80.4,613648
+PRE023,Predictive feature 23,Growth,82.11,50.7,79.2,616660
+PRE034,Predictive feature 34,Strategic,81.96,50.3,79.6,619757
+PRE012,Predictive feature 12,Strategic,81.67,53.7,80.9,591341
+PRE008,Predictive feature 8,Watch,81.08,51.5,79.7,597377
+PRE013,Predictive feature 13,Core,80.74,49.6,78.9,605569
+PRE002,Predictive feature 2,Growth,78.68,50.5,81.0,577595
+PRE005,Predictive feature 5,Strategic,78.38,53.3,81.1,550258
+PRE018,Predictive feature 18,Watch,78.29,49.9,79.4,570916
+PRE024,Predictive feature 24,Core,77.57,48.0,79.5,577697
+PRE032,Predictive feature 32,Strategic,76.81,53.5,81.3,527572
+PRE006,Predictive feature 6,Strategic,76.66,54.8,79.5,505791
+PRE026,Predictive feature 26,Watch,76.42,52.5,80.2,525629
+PRE033,Predictive feature 33,Core,76.05,49.0,79.9,549689
+PRE027,Predictive feature 27,Watch,74.82,54.5,78.9,479903
+PRE010,Predictive feature 10,Growth,74.77,53.1,79.1,492501
+PRE017,Predictive feature 17,Strategic,72.31,52.9,79.7,462222
