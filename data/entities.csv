@@ -1,37 +1,17 @@
-entity_id,entity_name,segment,owner
-PRE001,Predictive feature 1,Watch,Operations
-PRE002,Predictive feature 2,Growth,Analytics
-PRE003,Predictive feature 3,Core,Revenue
-PRE004,Predictive feature 4,Growth,Product
-PRE005,Predictive feature 5,Strategic,Analytics
-PRE006,Predictive feature 6,Strategic,Customer
-PRE007,Predictive feature 7,Growth,Product
-PRE008,Predictive feature 8,Watch,Customer
-PRE009,Predictive feature 9,Strategic,Product
-PRE010,Predictive feature 10,Growth,Analytics
-PRE011,Predictive feature 11,Growth,Product
-PRE012,Predictive feature 12,Strategic,Revenue
-PRE013,Predictive feature 13,Core,Product
-PRE014,Predictive feature 14,Growth,Product
-PRE015,Predictive feature 15,Strategic,Customer
-PRE016,Predictive feature 16,Core,Analytics
-PRE017,Predictive feature 17,Strategic,Analytics
-PRE018,Predictive feature 18,Watch,Revenue
-PRE019,Predictive feature 19,Growth,Revenue
-PRE020,Predictive feature 20,Strategic,Analytics
-PRE021,Predictive feature 21,Watch,Product
-PRE022,Predictive feature 22,Strategic,Analytics
-PRE023,Predictive feature 23,Growth,Product
-PRE024,Predictive feature 24,Core,Operations
-PRE025,Predictive feature 25,Strategic,Analytics
-PRE026,Predictive feature 26,Watch,Product
-PRE027,Predictive feature 27,Watch,Analytics
-PRE028,Predictive feature 28,Growth,Analytics
-PRE029,Predictive feature 29,Core,Revenue
-PRE030,Predictive feature 30,Strategic,Product
-PRE031,Predictive feature 31,Growth,Revenue
-PRE032,Predictive feature 32,Strategic,Product
-PRE033,Predictive feature 33,Core,Revenue
-PRE034,Predictive feature 34,Strategic,Customer
-PRE035,Predictive feature 35,Watch,Product
-PRE036,Predictive feature 36,Core,Product
+feature_id,feature_name,category,vendor_family,cadence,expected_sign,true_ic_assumption,base_latency_days,owner,thesis
+FEAT001,Core fundamentals signal 1,fundamental,Core fundamentals,weekly,1,0.052,1,Research,Revision acceleration captures slow analyst incorporation after guidance changes.
+FEAT002,Earnings text signal 2,text,Earnings text,daily,1,0.041,2,Feature engineering,Gross margin pressure appears before consensus models absorb cost shocks.
+FEAT003,Supply chain web signal 3,alternative,Supply chain web,daily,1,0.034,1,Data operations,Hiring intensity gives an early read on operating momentum by peer group.
+FEAT004,Hiring feeds signal 4,labor,Hiring feeds,weekly,1,0.027,3,ML platform,Supplier disruption language precedes inventory and revenue misses.
+FEAT005,Analyst revisions signal 5,estimate,Analyst revisions,daily,1,0.018,2,Research,Web demand momentum helps separate real growth from channel stuffing.
+FEAT006,Card spend signal 6,transaction,Card spend,daily,1,0.045,1,Feature engineering,Payment share shifts reveal changing consumer traction across peers.
+FEAT007,Core fundamentals signal 7,fundamental,Core fundamentals,weekly,-1,-0.006,5,Data operations,Filings sentiment flags balance-sheet stress before the next reporting cycle.
+FEAT008,Earnings text signal 8,text,Earnings text,daily,1,0.046,0,ML platform,Price realization captures sector-level demand resilience.
+FEAT009,Supply chain web signal 9,alternative,Supply chain web,daily,1,0.052,1,Research,Inventory drift indicates future discounting pressure.
+FEAT010,Hiring feeds signal 10,labor,Hiring feeds,weekly,1,0.041,2,Feature engineering,Customer concentration alerts identify names with brittle revenue quality.
+FEAT011,Analyst revisions signal 11,estimate,Analyst revisions,daily,1,0.069,8,Data operations,Late vendor restatements can create false alpha if backfilled into training.
+FEAT012,Card spend signal 12,transaction,Card spend,daily,1,0.027,3,ML platform,News burst decay captures temporary attention effects that should fade.
+FEAT013,Core fundamentals signal 13,fundamental,Core fundamentals,weekly,1,0.018,2,Research,Estimate dispersion reflects disagreement that may amplify return skew.
+FEAT014,Earnings text signal 14,text,Earnings text,daily,1,0.01,1,Feature engineering,Short interest crowding identifies fragile momentum exposures.
+FEAT015,Supply chain web signal 15,alternative,Supply chain web,daily,-1,-0.006,5,Data operations,Disclosure lag flags issuer groups where features need stricter availability rules.
+FEAT016,Hiring feeds signal 16,labor,Hiring feeds,weekly,1,0.046,0,ML platform,Macro beta residuals isolate company-specific information from market noise.

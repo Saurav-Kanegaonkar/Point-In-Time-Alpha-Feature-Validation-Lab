@@ -2,14 +2,15 @@
 
 ## What I analyzed
 
-I joined 5,040 daily metric rows, 760 source events, and 220 action candidates for financial feature engineering validation.
+I generated a synthetic point-in-time research panel with 82,944 feature-security-date rows, 16 candidate features, and 360 feed or research events.
 
 ## Findings
 
-- The highest-priority predictive feature is PRE030 with a priority score of 106.11.
-- The top queue combines 47.3 average risk with 82.2 quality score and $995,473 estimated impact.
-- The strongest use case is turning repeated stakeholder questions into a ranked operating digest.
+- 11 features clear the promotion threshold after signal, stationarity, point-in-time, and feed-health checks.
+- 2 features are quarantined because availability timing or data-health defects could create false alpha.
+- The top candidate is Supply chain web signal 3 with a promotion score of 98.0 and test IC of 0.4569.
+- The highest data-risk item has 59.24 percent point-in-time failure rate.
 
 ## Recommendation
 
-Prioritize the top queue before scaling more dashboards. The project should help leaders decide which predictive feature risks need action, validation, or monitoring.
+Use the validation queue as a research gate. Promote only features that survive out-of-sample testing and availability checks, repair features with drift or feed defects, and quarantine features that would leak future information into training data.

@@ -1,0 +1,17 @@
+feature_id,late_rows,late_rate,max_latency_days,recommendation
+FEAT001,0,0.0,4,passes availability cutoff
+FEAT002,0,0.0,6,passes availability cutoff
+FEAT003,0,0.0,5,passes availability cutoff
+FEAT004,0,0.0,6,passes availability cutoff
+FEAT005,0,0.0,6,passes availability cutoff
+FEAT006,0,0.0,4,passes availability cutoff
+FEAT007,20,0.39,9,block from training joins
+FEAT008,0,0.0,4,passes availability cutoff
+FEAT009,0,0.0,5,passes availability cutoff
+FEAT010,0,0.0,5,passes availability cutoff
+FEAT011,3071,59.24,18,block from training joins
+FEAT012,0,0.0,6,passes availability cutoff
+FEAT013,0,0.0,5,passes availability cutoff
+FEAT014,0,0.0,4,passes availability cutoff
+FEAT015,874,16.86,16,block from training joins
+FEAT016,0,0.0,4,passes availability cutoff

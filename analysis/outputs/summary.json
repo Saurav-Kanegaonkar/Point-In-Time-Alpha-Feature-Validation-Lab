@@ -1,0 +1,16 @@
+{
+  "feature_count": 16,
+  "security_count": 48,
+  "panel_rows": 82944,
+  "event_count": 360,
+  "action_count": 96,
+  "promote_count": 11,
+  "watch_count": 2,
+  "repair_count": 1,
+  "quarantine_count": 2,
+  "avg_health_score": 86.0,
+  "avg_test_ic": 0.4413,
+  "top_feature": "Supply chain web signal 3",
+  "top_score": 98.0,
+  "generated_with_seed": 20260519
+}
